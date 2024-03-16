@@ -1,4 +1,4 @@
-package bai4.dao;
+package component;
 
 import java.util.List;
 import java.util.concurrent.CountDownLatch;
